@@ -2,7 +2,9 @@ import React from 'react'
 
 function Ideas() {
   return (
-    <div>Ideas</div>
+    <div>Ideas
+      
+    </div>
   )
 }
 

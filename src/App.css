@@ -7,3 +7,8 @@
     background-color: #9FA2B4;
 }
 
+.containers{
+    max-width: 1120px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
